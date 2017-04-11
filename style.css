@@ -53,7 +53,7 @@ aside {
     height: 220px;
     float: right;
     margin-bottom: 5px;
-    line-height: 80px;
+    line-height: 90px;
 
 }
 
@@ -70,7 +70,7 @@ footer {
     width: 960px;
     margin-left: auto;
     margin-right: auto;
-    line-height: 80px;
+    line-height: 90px;
 }
 
 /* Style the p tags*/
